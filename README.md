@@ -115,7 +115,8 @@ img2.addEventListener("mouseout",()=>
 
 # OUTPUT:
 
-![alt text](<../Screenshot 2025-10-07 231922.png>)
+<img><img width="1920" height="1080" alt="Screenshot 2025-10-07 231922" src="https://github.com/user-attachments/assets/1a142083-4c97-4949-845b-aca32dff48a5" />
+
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
